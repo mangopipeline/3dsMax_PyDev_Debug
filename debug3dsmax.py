@@ -1,3 +1,9 @@
+'''
+this is based on the debugmaya.py tool written a few years ago by someone at autodesk..
+#dontatmebro :D
+
+"Cyrille Fauvel <cyrille.fauvel@autodesk.com>"
+'''
 import sys, imp, __builtin__
 import pydevd
 
